@@ -1,14 +1,13 @@
-<PARSED TEXT FOR SHEET: 1 / 1 TABS
-TAB NAME: sample_expected_schema.csv>index,expected_column_name
-0,person_id
-1,diagnosis
-2,radius mean
-3,texture mean
-4,perimeter mean
-5,area mean
-6,smoothness mean
-7,compactness mean
-8,concavity mean
-9,concave points mean
-10,symmetry mean
-11,fractal dimension mean
+expected_column_name
+person_id
+diagnosis
+radius mean
+texture mean
+perimeter mean
+area mean
+smoothness mean
+compactness mean
+concavity mean
+concave points mean
+symmetry mean
+fractal dimension mean
