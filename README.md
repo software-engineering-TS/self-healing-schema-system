@@ -71,11 +71,11 @@ See `docs/architecture.md`, `docs/testing.md` and `docs/limitations.md`. The loc
 
 ## Screenshots
 
-![Upload and preview](media/uploaded_files_summary.png)
+![Upload and preview](https://raw.githubusercontent.com/TarunSaiPydi/self-healing-schema-system/main/media/uploaded_files_summary.png)
 
-![Matching strategy summary](media/matching_strategy_summary.png)
+![Matching strategy summary](https://raw.githubusercontent.com/TarunSaiPydi/self-healing-schema-system/main/media/matching_strategy_summary.png)
 
-![Download options](media/download_button.png)
+![Download options](https://raw.githubusercontent.com/TarunSaiPydi/self-healing-schema-system/main/media/download_button.png)
 
 ## License
 
