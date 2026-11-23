@@ -1,0 +1,17 @@
+[project]
+name = "self-healing-schema-system"
+version = "2.1.1"
+description = "A hybrid deterministic and local-AI schema reconciliation application"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+
+[tool.coverage.run]
+branch = true
+source = ["matcher", "schema_healer", "validator", "utils"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
